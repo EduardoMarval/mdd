@@ -40,6 +40,17 @@ inscribieron en ese día?
 
 # Requirements:
 
+- Se crea Base de datos:
+
+![Query crear DB](./assets/img/querycb.png)
+
+
+- Se crea Tabla:
+
+![Query crear DB](./assets/img/queryct.png)
+
+
+
 Utilizando el siguiente set de datos:
 
 - CREATE TABLE IF NOT EXISTS INSCRITOS(cantidad INT, fecha DATE, fuente VARCHAR);
