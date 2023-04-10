@@ -103,8 +103,6 @@ VALUES ( 83, '01/08/2021', 'Blog' );
 - INSERT INTO INSCRITOS(cantidad, fecha, fuente)
 VALUES ( 99, '01/08/2021', 'Página' );
 
-![Query6](./assets/img/query6.png)
-
 
 - Cada consulta declarada en la descripción tiene un valor de 2 puntos para un total de (10 puntos).
 
